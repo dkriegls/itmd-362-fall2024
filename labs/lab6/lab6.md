@@ -1,7 +1,7 @@
 # Lab 06: Implementing HCI guidelines for touchscreens
 
 Using the HCI guidelines from either Apple/iOS, GNOME, or Windows, redesign the 
-Blackboard interface for a touch-friendly environment.
+Canvas interface for a touch-friendly environment.
 
 **You only need to sketch your redesign**, and in the text below, reference at least three different
 points of guidance from chosen HCI guidelines that went into your redesign sketches (you might
